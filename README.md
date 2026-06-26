@@ -1,6 +1,6 @@
 <!-- Greeting -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Titan+One&size=40&duration=2000&pause=500&color=7A00C6&center=true&vCenter=true&width=435&lines=Hello;Hola;Howdy;Aloha;Ciao;Anyeong+Haseyo">
+  <img src="https://readme-typing-svg.demolab.com?font=Titan+One&size=40&duration=2000&pause=500&color=730ACF&center=true&vCenter=true&width=435&lines=Hello;Hola;Howdy;Aloha;Ciao;Anyeong+Haseyo">
 
 <!-- Name -->
 <h1 align="center">
@@ -20,7 +20,7 @@
 </p>
 
 <!-- More About Me -->
-## $\color{#7A00C6}{\text{More About Me}}$
+## $\color{#730ACF}{\text{More About Me}}$
 
 I am . . . 
 - Currently an undergraduate attending American University in DC
