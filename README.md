@@ -10,7 +10,7 @@
 <!-- Icons -->
 <p align="center">
   <a href="https://1000logos.net/american-university-logo/"><img width="55px" alt="AU" title="AU" src="https://1000logos.net/wp-content/uploads/2024/10/American-University-Emblem.png"/></a>
-  <a href="https://www.instagram.com/_513n4_/?hl=en"><img width="32px" alt="Instagram" title="Instagram" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"/></a>
+  <a href="https://www.instagram.com/_513n4_/?hl=en"><img width="32px" alt="Instagram" title="Instagram" src="https://www.iconsdb.com/icons/preview/color/730ACF/instagram-xl.png"/></a>
   <a href="https://icon-icons.com/icon/python-logo/168886"><img width="32px" alt="Python" title="Python" src="https://images.icon-icons.com/2699/PNG/512/python_logo_icon_168886.png"/></a>
   <a href="https://www.r-project.org/logo/"><img width="40px" alt="Youtube" title="Youtube" src="https://www.r-project.org/logo/Rlogo.svg"/></a>
 </p>
