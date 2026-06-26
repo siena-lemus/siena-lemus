@@ -23,7 +23,7 @@
 </p>
 
 <!-- More About Me -->
-## $\color{#730ACF}{\text{More About Me}}$
+## **More About Me**
 
 I am . . . 
 - Currently an undergraduate attending American University in DC
@@ -31,7 +31,16 @@ I am . . .
 - Interning with STEMworks
 - Working on a marine debis mapping project
 
-Languages: Python, R
+### Languages:
+<!-- Language Icons -->
+<p>
+  <img width="40px" alt="Python" title="Python" src="https://www.iconsdb.com/icons/preview/color/730ACF/python-xl.png">
+  &#8287;&#8287;&#8287;
+  <img width="40px" alt="R" title="R"src="https://img.icons8.com/?size=100&id=dwx4BT6KfChJ&format=png&color=7950F2">
+  &#8287;&#8287;&#8287;
+  <img width="40px" alt="HTML" title="HTML"src="https://www.iconsdb.com/icons/preview/color/730ACF/html-xl.png">
+  &#8287;&#8287;&#8287;
+  
 
-Preferred Contact: sienalemus1@gmail.com
+
 
