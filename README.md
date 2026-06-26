@@ -2,10 +2,13 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Titan+One&size=40&duration=2000&pause=500&color=730ACF&center=true&vCenter=true&width=435&lines=Hello;Hola;Howdy;Aloha;Ciao;Anyeong+Haseyo">
 
+
 <!-- Name -->
-<h1 align="center">
-  $\Large \color{white}{\text{Siena Lemus}}$
-</h1>
+<div align="center">
+  <h1 style="font-size: 3em; font-family: 'Brush Script MT'; cursive">
+    Siena Lemus
+  </h1>
+</div>
 
 <!-- Icons -->
 <p align="center">
