@@ -15,7 +15,7 @@
   &#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/siena-lemus-540465311/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://www.iconsdb.com/icons/preview/color/730ACF/linkedin-3-xl.png"/></a>
   &#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.r-project.org/logo/"><img width="32px" alt="Spotify" title="Spotify" src="https://www.iconsdb.com/icons/preview/color/730ACF/spotify-xl.png"/></a>
+  <a href="https://open.spotify.com/user/31cmnboeejplooybbqvicnptcxgq?si=261163c3f2c341c4"><img width="32px" alt="Spotify" title="Spotify" src="https://www.iconsdb.com/icons/preview/color/730ACF/spotify-xl.png"/></a>
   &#8287;&#8287;&#8287;&#8287;
 </p>
 
